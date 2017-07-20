@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../6.0001/psets/PSET5/.idea/PSET5.iml" filepath="$PROJECT_DIR$/../../6.0001/psets/PSET5/.idea/PSET5.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/lab_2.iml" filepath="$PROJECT_DIR$/.idea/lab_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lab_3/.idea/lab_3.iml" filepath="$PROJECT_DIR$/../lab_3/.idea/lab_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/../lab_4/.idea/lab_4.iml" filepath="$PROJECT_DIR$/../lab_4/.idea/lab_4.iml" />
