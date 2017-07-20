@@ -1,0 +1,8 @@
+{
+  "test": "earliest_meeting(W36, Friday, ...) starts at 12",
+  "function": "earliest_meeting",
+  "inputs": {
+    "building": "W36",
+    "day_of_week": "Friday"
+  }
+}

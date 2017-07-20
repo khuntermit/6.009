@@ -1,0 +1,6 @@
+{
+  "test": "large corpus, autocorrect('tat',3)",
+  "words": "jules_verne",
+  "method": "autocorrect",
+  "args": ["tat", 3]
+}

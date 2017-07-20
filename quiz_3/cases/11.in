@@ -1,0 +1,9 @@
+{
+  "ques": 3,
+  "test": 9,
+  "function": "have_conflicts",
+  "argNames":   [
+                    "class_list"
+                ],
+  "class_list": ["6.004", "6.005", "6.006", "6.334"]
+}

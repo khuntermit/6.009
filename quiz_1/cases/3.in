@@ -1,0 +1,4 @@
+{"test": "Medium list, multiple possible triples",
+  "function": "findTriple",
+  "inputs": {
+"ilist":[20, 68, 76, 55, 38, 39, 125, 90, 92, 71, 102, 81, 47, 57, 28, 111]}}

@@ -1,0 +1,7 @@
+{
+  "test": "most_repeated_character(['p','p','q','q','s','s']) = 2",
+  "function": "most_repeated_character",
+  "inputs": {
+    "characters": ["p","p","q","q","s","s"]
+  }
+}

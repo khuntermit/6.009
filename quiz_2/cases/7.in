@@ -1,0 +1,7 @@
+{ "test": "single node",
+  "function": "check_BST",
+  "inputs": {
+     "btree": {"root": [22, "", ""]},
+     "start": "root"
+  }
+}

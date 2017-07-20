@@ -1,0 +1,99 @@
+{
+  "test": "is_proper( ... see in file ... ) = true",
+  "function": "is_proper",
+  "inputs": {
+    "root": {
+              "color":  "black",
+              "left": {
+                        "color":  "red",
+                        "left": {
+                                  "color":  "black",
+                                  "left": {
+                                            "color":  "black",
+                                            "left":   -1,
+                                            "right":  -1
+                                  },
+                                  "right": {
+                                            "color":  "red",
+                                            "left": {
+                                                      "color":  "black",
+                                                      "left":   -1,
+                                                      "right":  -1
+                                            },
+                                            "right": {
+                                                      "color":  "black",
+                                                      "left":   -1,
+                                                      "right":  -1
+                                            }
+                                  }
+                        },
+                        "right": {
+                                  "color":  "red",
+                                  "left": {
+                                            "color":  "black",
+                                            "left": {
+                                                      "color":  "black",
+                                                      "left":   -1,
+                                                      "right":  -1
+                                            },
+                                            "right": {
+                                                      "color":  "black",
+                                                      "left":   -1,
+                                                      "right":  -1
+                                            }
+                                  },
+                                  "right": {
+                                            "color":  "black",
+                                            "left": {
+                                                      "color":  "black",
+                                                      "left":   -1,
+                                                      "right":  -1
+                                            },
+                                            "right": {
+                                                      "color":  "black",
+                                                      "left":   -1,
+                                                      "right":  -1
+                                            }
+                                  }
+                        }
+              },
+              "right": {
+                        "color":  "black",
+                        "left": {
+                                  "color":  "black",
+                                  "left": {
+                                            "color":  "red",
+                                            "left":   -1,
+                                            "right":  -1
+                                  },
+                                  "right": {
+                                            "color":  "red",
+                                            "left":   -1,
+                                            "right":  -1
+                                  }
+                        },
+                        "right": {
+                                  "color":  "red",
+                                  "left": {
+                                            "color":  "red",
+                                            "left": {
+                                                      "color":  "black",
+                                                      "left":   -1,
+                                                      "right":  -1
+                                            },
+                                            "right": {
+                                                      "color":  "black",
+                                                      "left":   -1,
+                                                      "right":  -1
+                                            }
+                                  },
+                                  "right": {
+                                            "color":  "black",
+                                            "left":   -1,
+                                            "right":  -1
+                                  }
+                        }
+              }
+    }
+  }
+}

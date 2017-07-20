@@ -1,0 +1,11 @@
+{
+  "test": "insert, degenerate tree (list) to the left",
+  "function": "insert",
+  "inputs": {
+    "tree": [{"data": 1, "left": null, "right": 1, "prev": null, "next": 1},
+             {"data": 2, "left": null, "right": 2, "prev": 0, "next": 2},
+             {"data": 4, "left": null, "right": 3, "prev": 1, "next": 3},
+             {"data": 5, "left": null, "right": null, "prev": 2, "next": null}],
+    "data": 0
+    }
+}

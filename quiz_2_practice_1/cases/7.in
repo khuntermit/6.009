@@ -1,0 +1,11 @@
+{
+  "test": "solve_latin_square( ...see in file... )",
+  "function": "solve_latin_square",
+  "inputs": {
+    "grid": [
+              [-1 , 1, -1],
+              [-1, -1,  2],
+              [-1, -1, -1]
+            ]
+  }
+}

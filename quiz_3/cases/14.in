@@ -1,0 +1,9 @@
+{
+  "test": "Single Label",
+  "function": "count_straights",
+  "inputs": {
+    "k": 1,
+    "L": 13,
+    "n": 5
+  }
+}

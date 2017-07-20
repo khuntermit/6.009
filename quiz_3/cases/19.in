@@ -1,0 +1,10 @@
+{
+  "test": "No Valid Hands",
+  "function": "count_straights",
+  "inputs": {
+    "k": 5,
+    "L": 2,
+    "n": 5
+  }
+}
+

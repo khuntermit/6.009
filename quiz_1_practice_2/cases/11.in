@@ -1,0 +1,8 @@
+{
+  "test": "is_permutation(\"asdf\", \"fdsa\") = True",
+  "function": "is_permutation",
+  "inputs": {
+    "A": "asdf",
+    "B": "fdsa"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "test": "earliest_meeting(Walker, Saturday, ...) does not meet (None)",
+  "function": "earliest_meeting",
+  "inputs": {
+    "building": "Walker",
+    "day_of_week": "Saturday"
+  }
+}

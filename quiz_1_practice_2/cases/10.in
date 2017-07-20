@@ -1,0 +1,7 @@
+{
+  "test": "is_quasidrome(\"racrrcar\") = True",
+  "function": "is_quasidrome",
+  "inputs": {
+    "s": "racrrcar"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "test": "is_permutation(\"Wrecking Ball\", \"rBWkca linlge\") = False",
+  "function": "is_permutation",
+  "inputs": {
+    "A": "Wrecking Ball",
+    "B": "rBWkca linlge"
+  }
+}

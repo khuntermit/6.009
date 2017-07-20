@@ -1,0 +1,6 @@
+{
+  "test": "find('mat') => trie with two entries",
+  "words": ["man","mat","mattress","map","me","met","a","man","a","a","a","map","man","met"],
+  "method": "find",
+  "args": ["mat"]
+}

@@ -1,0 +1,6 @@
+{
+  "test": "Autocomplete on one-child-per-level trie with tie",
+  "words": ["a","an","ant","anteater","a","an","ant","a"],
+  "method": "autocomplete",
+  "args": ["a", 2]
+}

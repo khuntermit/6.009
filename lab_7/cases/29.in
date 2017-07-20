@@ -1,0 +1,6 @@
+{
+  "test": "large corpus, filter('*ing') => words ending with 'ing'",
+  "words": "jules_verne",
+  "method": "filter",
+  "args": ["*ing"]
+}

@@ -1,0 +1,7 @@
+{
+  "test": "solve_latin_square([[-1]])",
+  "function": "solve_latin_square",
+  "inputs": {
+    "grid": [[-1]]
+  }
+}

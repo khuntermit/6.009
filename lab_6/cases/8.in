@@ -1,0 +1,19 @@
+{"test": "Large Coin Filled Maze",
+"function": "solve_maze",
+"inputs":
+{
+"m":
+    {
+    "dimensions": [7, 5],
+    "maze": [["c", "c", "c", "c", "c"],
+            ["c", "c", "c", "c", "c"],
+            ["c", "c", "c", "c", "c"],
+            ["c", "c", "c", "c", "c"],
+            ["c", "c", "c", "c", "c"],
+            ["c", "c", "c", "c", "c"],
+            ["c", "c", "c", "c", "c"]]
+            },
+    "start": [0, 0],
+    "goal": [6, 4]
+}
+}

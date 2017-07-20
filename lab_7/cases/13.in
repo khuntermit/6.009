@@ -1,0 +1,6 @@
+{
+  "test": "large corpus, __contains__('annexations') => False",
+  "words": "jules_verne",
+  "method": "__contains__",
+  "args": ["annexations"]
+}

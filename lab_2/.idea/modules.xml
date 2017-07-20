@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../6.0001/psets/PSET5/.idea/PSET5.iml" filepath="$PROJECT_DIR$/../../6.0001/psets/PSET5/.idea/PSET5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lab_2.iml" filepath="$PROJECT_DIR$/.idea/lab_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab_3/.idea/lab_3.iml" filepath="$PROJECT_DIR$/../lab_3/.idea/lab_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab_4/.idea/lab_4.iml" filepath="$PROJECT_DIR$/../lab_4/.idea/lab_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab_5/.idea/lab_5.iml" filepath="$PROJECT_DIR$/../lab_5/.idea/lab_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab_6/.idea/lab_6.iml" filepath="$PROJECT_DIR$/../lab_6/.idea/lab_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab_7/.idea/lab_7.iml" filepath="$PROJECT_DIR$/../lab_7/.idea/lab_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab_8A/.idea/lab_8A.iml" filepath="$PROJECT_DIR$/../lab_8A/.idea/lab_8A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab_8B/.idea/lab_8B.iml" filepath="$PROJECT_DIR$/../lab_8B/.idea/lab_8B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab_9A/.idea/lab_9A.iml" filepath="$PROJECT_DIR$/../lab_9A/.idea/lab_9A.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lab_9B/.idea/lab_9B.iml" filepath="$PROJECT_DIR$/../lab_9B/.idea/lab_9B.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz_1/.idea/quiz_1.iml" filepath="$PROJECT_DIR$/../quiz_1/.idea/quiz_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz_1_practice_1/.idea/quiz_1_practice_1.iml" filepath="$PROJECT_DIR$/../quiz_1_practice_1/.idea/quiz_1_practice_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz_1_practice_2/.idea/quiz_1_practice_2.iml" filepath="$PROJECT_DIR$/../quiz_1_practice_2/.idea/quiz_1_practice_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz_2/.idea/quiz_2.iml" filepath="$PROJECT_DIR$/../quiz_2/.idea/quiz_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz_2_practice_1/.idea/quiz_2_practice_1.iml" filepath="$PROJECT_DIR$/../quiz_2_practice_1/.idea/quiz_2_practice_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz_2_practice_2/.idea/quiz_2_practice_2.iml" filepath="$PROJECT_DIR$/../quiz_2_practice_2/.idea/quiz_2_practice_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz_3/.idea/quiz_3.iml" filepath="$PROJECT_DIR$/../quiz_3/.idea/quiz_3.iml" />
+    </modules>
+  </component>
+</project>

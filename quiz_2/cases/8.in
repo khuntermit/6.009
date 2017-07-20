@@ -1,0 +1,10 @@
+{ "test": "three nodes",
+  "function": "check_BST",
+  "inputs": {
+     "btree": {"root": [22, "A", "B"],
+                  "A": [20, "", "C"],
+                  "B": [25, "", ""],
+                  "C": [23, "", ""]},
+     "start": "root"
+  }
+}

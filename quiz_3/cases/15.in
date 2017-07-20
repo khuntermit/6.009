@@ -1,0 +1,9 @@
+{
+  "test": "Example 1 from readme",
+  "function": "count_straights",
+  "inputs": {
+    "k": 2,
+    "L": 3,
+    "n": 4
+  }
+}

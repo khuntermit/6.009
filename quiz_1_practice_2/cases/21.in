@@ -1,0 +1,7 @@
+{
+  "test": "eval_ast( ... see .in file ... ) = 99",
+  "function": "eval_ast",
+  "inputs": {
+    "ast": { "node": 99 }
+  }
+}

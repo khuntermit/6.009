@@ -1,0 +1,8 @@
+{
+  "test": "hangman(['h','i'],[]) = ['_','_']",
+  "function": "hangman",
+  "inputs": {
+    "secret_word": ["h","i"],
+    "guessed_letters": []
+  }
+}

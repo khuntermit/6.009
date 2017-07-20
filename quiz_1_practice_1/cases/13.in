@@ -1,0 +1,7 @@
+{
+  "test": "most_repeated_character(['a','b','a','a','b','a','a','a']) = 3",
+  "function": "most_repeated_character",
+  "inputs": {
+    "characters": ["a","b","a","a","b","a","a","a"]
+  }
+}

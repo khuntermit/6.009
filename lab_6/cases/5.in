@@ -1,0 +1,16 @@
+{"test": "A Very Generic Maze",
+"function": "solve_maze",
+"inputs":
+ {
+ "m": {
+    "dimensions": [5, 6],
+    "maze": [["c",0,  1,  1,  1,  0],
+             [ 1,"c","c","c","c","b"],
+             [ 0, 0,  0,  1,  1,  0],
+             [ 1, 0,  1, "c", 1, "c"],
+             [ 0,"c", 0, "c", 0,  0]]
+},
+"start": [0, 0],
+"goal": [4, 5]
+}
+}

@@ -1,0 +1,8 @@
+{
+  "test": "hangman(['i','h','t','f','p'],['a','b','c','d','e']) = ['_','_','_','_','_']",
+  "function": "hangman",
+  "inputs": {
+    "secret_word": ["i","h","t","f","p"],
+    "guessed_letters": ["a","b","c","d","e"]
+  }
+}

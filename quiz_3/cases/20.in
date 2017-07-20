@@ -1,0 +1,9 @@
+{
+  "test": "Large Case",
+  "function": "count_straights",
+  "inputs": {
+    "k": 6,
+    "L": 4,
+    "n": 3
+  }
+}

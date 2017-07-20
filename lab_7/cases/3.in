@@ -1,0 +1,5 @@
+{
+  "test": "Generate trie with multiple children on every level",
+  "f": "trie",
+  "words": ["man","mat","mattress","map","me","met","a","man","a","a","a","map","man","met"]
+}

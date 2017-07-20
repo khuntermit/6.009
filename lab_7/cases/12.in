@@ -1,0 +1,6 @@
+{
+  "test": "large corpus, __contains__('annulment') => True",
+  "words": "jules_verne",
+  "method": "__contains__",
+  "args": ["annulment"]
+}

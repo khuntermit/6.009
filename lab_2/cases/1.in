@@ -1,0 +1,6 @@
+{
+  "function": "pair",
+  "test": "Simple test, two actors who acted together",
+  "actor_1": 4724,
+  "actor_2": 9210
+}

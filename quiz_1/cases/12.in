@@ -1,0 +1,6 @@
+{
+  "test": "Checking circular subsequence",
+  "function": "maxSubsequence",
+  "inputs": {
+"ilist":[1,55,3,-100,30,80],"is_circular":"True"} 
+}

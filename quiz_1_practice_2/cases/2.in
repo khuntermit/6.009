@@ -1,0 +1,7 @@
+{
+  "test": "median([5, 100000, 6]) = 6",
+  "function": "median",
+  "inputs": {
+    "A": [5, 100000, 6]
+  }
+}

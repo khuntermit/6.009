@@ -1,0 +1,16 @@
+{ "test": "alternating_colors(three loops)",
+  "function": "alternating_colors",
+  "inputs": {
+     "graph": {"A": ["B", "D"],
+               "B": ["C", "A"],
+               "C": ["D", "B"],
+               "D": ["A", "C", "E", "G"],
+               "E": ["D", "F"],
+               "F": ["E", "G"],
+               "G": ["D", "F", "H", "J"],
+               "H": ["G", "I"],
+               "I": ["H", "J"],
+               "J": ["G", "I"]},
+     "start": "A"
+  }
+}

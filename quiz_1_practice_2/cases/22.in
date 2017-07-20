@@ -1,0 +1,9 @@
+{
+  "test": "eval_ast( ... see .in file ... ) = 3",
+  "function": "eval_ast",
+  "inputs": {
+    "ast": { "node": "+",
+             "left": { "node": -10 },
+             "right": { "node": 13 } }
+  }
+}

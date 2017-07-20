@@ -1,0 +1,15 @@
+{
+  "test": "eval_ast( ... see .in file ... ) = 15",
+  "function": "eval_ast",
+  "inputs": {
+    "ast": { "node": "+",
+             "left": { "node": "+",
+                       "left": { "node": "+",
+                                 "left": { "node": "+",
+                                           "left": { "node": 1 },
+                                           "right": { "node": 2 }},
+                                 "right": { "node": 3 }},
+                       "right": { "node": 4 }},
+             "right": { "node": 5 }}
+  }
+}

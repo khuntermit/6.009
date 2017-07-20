@@ -1,0 +1,6 @@
+{
+  "test": "large corpus, autocorrect('mad',10)",
+  "words": "jules_verne",
+  "method": "autocorrect",
+  "args": ["mad", 10]
+}

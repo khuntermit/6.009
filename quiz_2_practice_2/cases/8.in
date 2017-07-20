@@ -1,0 +1,11 @@
+{
+  "test": "insert, bigger tree 2",
+  "function": "insert",
+  "inputs": {
+    "tree": [{"data": 6, "left": 1, "right": 3, "prev": 2, "next": 3},
+             {"data": 2, "left": null, "right": 2, "prev": null, "next": 2},
+             {"data": 4, "left": null, "right": null, "prev": 1, "next": 0},
+             {"data": 8, "left": null, "right": null, "prev": 0, "next": null}],
+    "data": 7
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "test": "check_valid_paren(\"((((())))))\")",
+  "function": "check_valid_paren",
+  "inputs": {
+    "s": "((((())))))"
+  }
+}

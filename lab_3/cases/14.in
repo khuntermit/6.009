@@ -1,0 +1,5 @@
+{
+  "function": "check_module",
+  "test": "Check the mines1 implementation.",
+  "args": ["mines1"]
+}

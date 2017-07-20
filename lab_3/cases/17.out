@@ -1,0 +1,1 @@
+{"incorrect": ["newgame_mask", "victory_state", "dig_neighbors", "completed_dig_nop", "dig_count"], "correct": ["newgame_board", "newgame_state", "newgame_dimensions", "defeat_state", "dig_reveal", "multiple_dig_nop", "dig_mask", "newgame_state"]}

@@ -1,0 +1,8 @@
+{
+  "test": "insert, starting from one element",
+  "function": "insert",
+  "inputs": {
+    "tree": [{"data": 3, "left": null, "right": null, "prev": null, "next": null}],
+    "data": 15
+    }
+}

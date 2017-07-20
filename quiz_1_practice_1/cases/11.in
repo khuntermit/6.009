@@ -1,0 +1,7 @@
+{
+  "test": "most_repeated_character([]) = 0",
+  "function": "most_repeated_character",
+  "inputs": {
+    "characters": []
+  }
+}

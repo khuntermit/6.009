@@ -1,0 +1,6 @@
+{
+  "test": "filter('mat*') => words beginning with 'mat'",
+  "words": ["man","mat","mattress","map","me","met","a","man","a","a","a","map","man","met"],
+  "method": "filter",
+  "args": ["mat*"]
+}

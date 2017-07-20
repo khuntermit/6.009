@@ -1,0 +1,6 @@
+{
+  "test": "Autocomplete on trie with multiple children per level",
+  "words": ["man","mat","mattress","map","me","met","a","man","a","a","a","map","man","met"],
+  "method": "autocomplete",
+  "args": ["m", 3]
+}

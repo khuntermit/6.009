@@ -1,0 +1,14 @@
+{"test": "Bombs & Coins",
+"function": "solve_maze",
+"inputs":
+{
+ "m": {
+     "dimensions": [3, 7],
+    "maze": [["c","c","c","b","c","c","c"],
+             ["b", 1,  0,  1,  0,  1, "b"],
+             ["c","c","c","b","c","c","c"]]
+},
+"start": [0, 0],
+"goal": [2, 6]
+}
+}

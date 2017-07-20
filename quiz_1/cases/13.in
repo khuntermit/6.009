@@ -1,0 +1,4 @@
+{"test": "Small grid, one path",
+  "function": "findPath",
+  "inputs": {
+"grid":[[0,0,1],[0,1,0],[1,0,0]]}}

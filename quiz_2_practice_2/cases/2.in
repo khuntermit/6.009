@@ -1,0 +1,8 @@
+{
+  "test": "lottery([[0, 1], [1, 0], [0, 1]], [1, 1]) == None",
+  "function": "lottery",
+  "inputs": {
+    "prairie_dogs": [[0, 1], [1, 0], [0, 1]],
+    "capacities": [1, 1]
+  }
+}

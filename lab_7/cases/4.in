@@ -1,0 +1,5 @@
+{
+  "test": "Generate large trie with corpus",
+  "f": "trie",
+  "words": "jules_verne"
+}

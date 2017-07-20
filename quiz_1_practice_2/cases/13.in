@@ -1,0 +1,8 @@
+{
+  "test": "is_permutation(\"bookkeeper\", \"bokeper\") = False",
+  "function": "is_permutation",
+  "inputs": {
+    "A": "bookkeeper",
+    "B": "bokeper"
+  }
+}

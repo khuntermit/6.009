@@ -1,0 +1,7 @@
+{
+  "test": "is_quasidrome(\"racercar\") = True",
+  "function": "is_quasidrome",
+  "inputs": {
+    "s": "racercar"
+  }
+}

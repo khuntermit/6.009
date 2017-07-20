@@ -1,0 +1,5 @@
+{
+  "test": "Generate trie with only one child on each level",
+  "f": "trie",
+  "words": ["a","an","ant","anteater","a","an","ant","a"]
+}

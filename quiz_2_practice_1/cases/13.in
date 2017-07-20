@@ -1,0 +1,35 @@
+{
+  "test": "is_proper( ... see in file ... ) = true",
+  "function": "is_proper",
+  "inputs": {
+              "root": {
+                        "color":  "red",
+                        "left": {
+                                  "color":  "red",
+                                  "left": {
+                                            "color":  "red",
+                                            "left": {
+                                                      "color":  "red",
+                                                      "left":   -1,
+                                                      "right":  -1
+                                            },
+                                            "right": {
+                                                      "color":  "red",
+                                                      "left":   -1,
+                                                      "right":  -1
+                                            }
+                                  },
+                                  "right": {
+                                            "color":  "red",
+                                            "left":   -1,
+                                            "right":  -1
+                                  }
+                        },
+                        "right": {
+                                  "color":  "red",
+                                  "left":   -1,
+                                  "right":  -1
+                        }
+              }
+  }
+}

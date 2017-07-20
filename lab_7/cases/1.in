@@ -1,0 +1,5 @@
+{
+  "test": "Generate simple trie for three words",
+  "f": "trie",
+  "words": ["cat","car","carpet"]
+}

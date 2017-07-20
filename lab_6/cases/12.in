@@ -1,0 +1,14 @@
+{"test": "Goal Before Start",
+"function": "solve_maze",
+"inputs": {"m": {
+    "dimensions": [5, 6],
+    "maze": [[0, 0, 0, 0, 0, 1],
+             [0, 0, 1, 1, 1, 1],
+             [1, 0, 1, 0, 0, 1],
+             [0, 0, 0, "c", 0, 0],
+             [1, 1, 1, 1, 1, 0]]
+    },
+"start": [3, 4],
+"goal": [1, 1]
+}
+}

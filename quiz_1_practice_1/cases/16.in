@@ -1,0 +1,7 @@
+{
+  "test": "integer_right_triangles(12) = [[3, 4, 5]]",
+  "function": "integer_right_triangles",
+  "inputs": {
+    "p": 12
+  }
+}

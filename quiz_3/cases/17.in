@@ -1,0 +1,9 @@
+{
+  "test": "Medium Test 1",
+  "function": "count_straights",
+  "inputs": {
+    "k": 3,
+    "L": 3,
+    "n": 3
+  }
+}

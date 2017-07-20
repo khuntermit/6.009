@@ -1,0 +1,4 @@
+{"test": "Checking for longest subsequence",
+  "function": "maxSubsequence",
+  "inputs": {
+"ilist":[1,55,3,-100,30,80]}}

@@ -1,0 +1,25 @@
+{
+  "test": "eval_ast( ... see .in file ... ) = -836",
+  "function": "eval_ast",
+  "inputs": {
+    "ast": {  "node": "+",
+              "left": { "node": "*",
+                        "left": { "node": 7 },
+                        "right": {  "node": "*",
+                                    "left": { "node": 5 },
+                                    "right": {  "node": "*",
+                                                "left": { "node": -2 },
+                                                "right": {  "node": "*",
+                                                            "left": { "node": 4 },
+                                                           "right": { "node": 3 } }}}},
+             "right": { "node": "+",
+                        "left": { "node": "+",
+                                  "left": { "node": 11 },
+                                  "right": {  "node": "*",
+                                              "left": { "node": 2 },
+                                              "right": { "node": -5 } }},
+                        "right": {  "node": "+",
+                                    "left": { "node": 10 },
+                                    "right": { "node": -7 } }}}
+  }
+}

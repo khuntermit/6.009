@@ -1,0 +1,5 @@
+{
+    "test": "This test tries to blur a 6x5 black image",
+    "function": "filter_gaussian_blur",
+    "image_file": "sixbyfive.json"
+}

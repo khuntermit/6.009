@@ -1,0 +1,5 @@
+{
+  "function": "set",
+  "test": "Actors with Bacon number of 0",
+  "n": 0
+}

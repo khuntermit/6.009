@@ -1,0 +1,14 @@
+{"test": "Single Path Test",
+"function": "solve_maze",
+"inputs": {
+        "m": {
+        "dimensions": [4, 4],
+        "maze": [["c", 1,  1, 1],
+                 ["c", 0,  1, 1],
+                 [ 1, "c","c",1],
+                 [ 1,  1,  0, 0]]
+         },
+        "start": [0, 0],
+        "goal": [3, 3]
+}
+}

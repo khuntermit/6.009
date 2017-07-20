@@ -1,0 +1,6 @@
+{
+  "test": "Autocomplete on simple trie with less than N valid words",
+  "words": ["cat","car","carpet"],
+  "method": "autocomplete",
+  "args": ["car", 3]
+}

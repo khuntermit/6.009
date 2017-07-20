@@ -1,0 +1,4 @@
+  {"test": "Small list, one possible triple",
+  "function": "findTriple",
+  "inputs": {
+"ilist":[23,3,16,50,11,15,7]}}

@@ -1,0 +1,6 @@
+{
+  "test": "Autocorrect on cat in small corpus",
+  "words": ["cats", "cattle", "hat", "car", "act", "at", "chat", "crate", "act", "car", "act"],
+  "method": "autocorrect",
+  "args": ["cat", 4]
+}

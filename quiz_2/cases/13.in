@@ -1,0 +1,7 @@
+{ "test": "pipe_cutting([],8) = 0",
+  "function": "pipe_cutting",
+  "inputs": {
+     "requests": [],
+     "stock_length": 8
+  }
+}

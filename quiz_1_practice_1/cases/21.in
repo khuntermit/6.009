@@ -1,0 +1,7 @@
+{
+  "test": "encode([]) == ['up', 'down']",
+  "function": "encode",
+  "inputs": {
+    "seq": []
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "test": "Checking trivial list",
+  "function": "maxSubsequence",
+  "inputs": {
+"ilist":[0,-1]}}

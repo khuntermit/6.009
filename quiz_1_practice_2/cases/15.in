@@ -1,0 +1,8 @@
+{
+  "test": "is_permutation(\"final test case\", \"finaltestcase\") = False",
+  "function": "is_permutation",
+  "inputs": {
+    "A": "final test case",
+    "B": "finaltestcase"
+  }
+}

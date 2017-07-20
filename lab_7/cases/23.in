@@ -1,0 +1,6 @@
+{
+  "test": "large corpus, autocorrect('sto',10)",
+  "words": "jules_verne",
+  "method": "autocorrect",
+  "args": ["sto", 10]
+}

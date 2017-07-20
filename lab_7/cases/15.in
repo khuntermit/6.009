@@ -1,0 +1,6 @@
+{
+  "test": "large corpus, __iter__(find('am')) => list of [word,freq] for words beginning with 'am'",
+  "words": "jules_verne",
+  "find": "am",
+  "method": "__iter__"
+}

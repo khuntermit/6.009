@@ -1,0 +1,7 @@
+{
+  "test": "median([1]) = 1",
+  "function": "median",
+  "inputs": {
+    "A": [1]
+  }
+}

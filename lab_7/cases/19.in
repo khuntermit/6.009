@@ -1,0 +1,6 @@
+{
+  "test": "Autocomplete with no word possibilities",
+  "words": ["hello","hell","history"],
+  "method": "autocomplete",
+  "args": ["help", 3]
+}

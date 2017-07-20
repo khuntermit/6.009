@@ -1,0 +1,9 @@
+{
+  "ques": 3,
+  "test": 6,
+  "function": "get_near_classes",
+  "argNames":   [
+                    "buildings"
+                ],
+  "buildings":  ["Walker", "Stata", "Koch", "W66", "E51"]
+}

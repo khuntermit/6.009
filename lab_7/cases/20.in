@@ -1,0 +1,6 @@
+{
+  "test": "large corpus, autocomplete('th',5)",
+  "words": "jules_verne",
+  "method": "autocomplete",
+  "args": ["th", 5]
+}

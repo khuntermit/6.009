@@ -1,0 +1,9 @@
+{
+  "test": "Base Case",
+  "function": "count_straights",
+  "inputs": {
+    "k": 1,
+    "L": 1,
+    "n": 1
+  }
+}
